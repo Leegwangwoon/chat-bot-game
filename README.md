@@ -22,9 +22,8 @@ OPENAI_API_KEY= 키 입력
 ```
 형태로 작성해서 저장해주세요 
 
-###  애플리케이션 실행
-Streamlit 명령어를 사용해 애플리케이션을 실행합니다:
-```
-streamlit run app.py
+## 구현 화면
 
-```
+![구현 화면](image/image.png)
+
+
