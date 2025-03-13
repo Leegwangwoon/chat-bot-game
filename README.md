@@ -8,8 +8,9 @@
 
 ###  프로젝트 클론
 먼저 GitHub에서 프로젝트를 클론합니다:
-```git clone https://github.com/your-repo-name.git
-cd your-repo-name
+```
+git clone https://github.com/Leegwangwoon/chat-bot-game.git
+cd chat-bot-game.git
 ```
 
 ## API KEY 관련
